@@ -28,7 +28,7 @@
 
 **Решение 2.**
 
-![alt text](https://github.com/mezhibo/IPv6/blob/a16e48fcd37c5d2d111ed6c6370558ee348ff22f/IMG/1.jpg)
+![alt text](https://github.com/mezhibo/IPv6/blob/e1a2580f42011df7d3b7bd939a1889ba241e7ecc/IMG/3.jpg)
 
 
 **Задание 3.**
